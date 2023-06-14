@@ -7,4 +7,4 @@ on:
 
 jobs:
   stale:
-    uses: pl-strflt/.github/.github/workflows/reusable-semantic-issue.yml@v0.3
+    uses: pl-strflt/.github/.github/workflows/reusable-stale-issue.yml@v0.3
