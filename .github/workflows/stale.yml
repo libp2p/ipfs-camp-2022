@@ -7,4 +7,4 @@ on:
 
 jobs:
   stale:
-    uses: pl-strflt/.github/reusable/.github/workflows/stale-issue.yml@v0.2
+    uses: pl-strflt/.github/reusable/.github/workflows/stale-issue.yml@main
